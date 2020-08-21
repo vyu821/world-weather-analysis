@@ -23,6 +23,8 @@ Looking at our WeatherPy_Database.csv, we have gathered the following metrics of
 
 Based on a sample weather preference of having temperature being between 75 and 90 Fahrenheit, we have generated a marker layer map with pop-up markers for cities fitting the criteria. Each marker displays hotel name, city name, country code, current weather description and maximum temperature. WeatherPy_vacation.csv is the full list of cities fitting this weather preference with the additional metric of hotel name.
 
-![WeatherPy_Travel_map](Vacation_Itinerary/WeatherPy_Travel_map.png)![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_Travel_map_markers.png)
+ | 
+:-------------------------:|:-------------------------:
+![WeatherPy_Travel_map](Vacation_Itinerary/WeatherPy_Travel_map.png) | ![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_Travel_map_markers.png)
 
 Using the previous WeatherPy_vacation_map.png, we selected 4 cities to create a vacation travel itinerary. We have mapped out the driving route and created a marker layer map with pop-up markers for each of the 4 cities.
